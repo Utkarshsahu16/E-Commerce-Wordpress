@@ -138,7 +138,7 @@ Override templates by copying them from the `templates/` directory and modifying
 For support and questions:
 - Create an issue on GitHub
 - Check documentation
-- Contact: your-email@example.com
+- Contact: utkarshsahu3002@gmail.com
 
 ## License
 
